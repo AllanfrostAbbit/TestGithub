@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AbbitSource\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj": {}
+    "C:\\AbbitGit2023\\TestGithub\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj": {}
   },
   "projects": {
-    "C:\\AbbitSource\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj": {
+    "C:\\AbbitGit2023\\TestGithub\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AbbitSource\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj",
+        "projectUniqueName": "C:\\AbbitGit2023\\TestGithub\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj",
         "projectName": "BookingServiceApi",
-        "projectPath": "C:\\AbbitSource\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj",
+        "projectPath": "C:\\AbbitGit2023\\TestGithub\\BookingServiceApi\\BookingServiceApi\\BookingServiceApi.csproj",
         "packagesPath": "C:\\Users\\abbit\\.nuget\\packages\\",
-        "outputPath": "C:\\AbbitSource\\BookingServiceApi\\BookingServiceApi\\obj\\",
+        "outputPath": "C:\\AbbitGit2023\\TestGithub\\BookingServiceApi\\BookingServiceApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
